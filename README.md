@@ -37,10 +37,5 @@ You can also run a single test by specifying the test file:
 $ python3 -m unittest tests/test_file.py
 
 ## Authors
-[Ramadhani Shafii Wanjenja]
-
-<<<<<<< HEAD
-[Patience Akaliza Bayingana]
-=======
-[Patience Akaliza Bayingana]
->>>>>>> d9b4e49516fc00f87389e73f9064d16e872a9925
+1. Ramadhani Shafii Wanjenja
+2. Patience Akaliza Bayingana
