@@ -37,4 +37,5 @@ $ python3 -m unittest tests/test_file.py
 
 ## Authors
 [Ramadhani Shafii Wanjenja]
+
 [Patience Akaliza Bayingana]
