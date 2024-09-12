@@ -14,6 +14,7 @@ Destroying an object
 
 ## How to start the interpreter
 ./console.py
+
 (hbnb) help
 
 Documented commands (type help <topic>):
@@ -38,4 +39,8 @@ $ python3 -m unittest tests/test_file.py
 ## Authors
 [Ramadhani Shafii Wanjenja]
 
+<<<<<<< HEAD
 [Patience Akaliza Bayingana]
+=======
+[Patience Akaliza Bayingana]
+>>>>>>> d9b4e49516fc00f87389e73f9064d16e872a9925
