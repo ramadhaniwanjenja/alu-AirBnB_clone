@@ -39,12 +39,12 @@ class HBNBCommand(cmd.Cmd):
 
     def do_create(self, arg):
         """
-        Creates a new inst of BaseModel, saves it, and prints the id.
+        Creates a new inst of BaseModel, saves  it, and prints the id.
 
         Usage: create <class_name>
 
         Args:
-            arg (str): The argument should contain the <class_name>.
+            arg (str): The argument should contain tthe <class_name>.
         """
 
         class_name = arg.split(" ")[0]
