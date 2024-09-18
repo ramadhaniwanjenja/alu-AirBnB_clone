@@ -1,7 +1,7 @@
 /* Footer styles */
 footer {
-    background-color: #00FF00; /* Green */
-    color: white;
+    background-color: #f9fdf9; /* Green */
+    color: rgb(0, 0, 0);
     height: 60px;
     width: 100%;
     border-top: 1px solid #CCCCCC;
